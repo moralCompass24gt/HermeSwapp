@@ -762,6 +762,14 @@
       "symbol": "HMSF",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xdC3D61B5731E4BA59DD03EE3D36FBd0666ee60A3",
+      "name": "HermesRisk",
+      "symbol": "HMSR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
     }
   ],
   "version": {
