@@ -761,7 +761,7 @@
       "name": "HermesFlow",
       "symbol": "HMSF",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
     }
   ],
   "version": {
